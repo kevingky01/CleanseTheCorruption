@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+.DS_Store
+build/
+game/out/
+game/ext/project_path.hpp
+game/.DS_Store
+game/data/persistance/high_scores.json

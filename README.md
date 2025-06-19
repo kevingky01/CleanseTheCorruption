@@ -1,4 +1,4 @@
-# Cleanse the Corruption
+# ![Cleanse the Corruption](https://kevingky.itch.io/cleanse-the-corruption)
 
 A CPSC427 Project
 
